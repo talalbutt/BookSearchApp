@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".BookListActivity">
+    <item
+        android:id="@+id/action_search_jbnu"
+        android:icon="@drawable/ic_jbnu"
+        android:title="Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always"
+        android:searchSuggestAuthority="com.example.MySuggestionProvider"
+        android:searchSuggestSelection=" ?"
+        />
+    <item
+        android:id="@+id/action_search_kakao"
+        android:icon="@drawable/ic_jbnu"
+        android:title="Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:searchSuggestAuthority="com.example.MySuggestionProvider"
+        android:searchSuggestSelection=" ?"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_search_naver"
+        android:icon="@drawable/ic_people"
+        android:title="Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:searchSuggestAuthority="com.example.MySuggestionProvider"
+        android:searchSuggestSelection=" ?"
+        app:showAsAction="always" />
+
+</menu>

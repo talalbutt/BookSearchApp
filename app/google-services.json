@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "381320639561",
+    "firebase_url": "https://booksearch-c65fd.firebaseio.com",
+    "project_id": "booksearch-c65fd",
+    "storage_bucket": "booksearch-c65fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381320639561:android:1881251fc6cb8060",
+        "android_client_info": {
+          "package_name": "kr.ac.jbnu.se.stkim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381320639561-0jomcbfrr8j39l2b5j42lf32amao99as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.ac.jbnu.se.stkim",
+            "certificate_hash": "f738729a0d77e28440172a6fb926ecc3dcaf33c5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1ffbw_GCLyk5UfTB5W3kqj8e77VpCNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381320639561-l34h7ssubsae6qs17655msd1jkf5coga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
